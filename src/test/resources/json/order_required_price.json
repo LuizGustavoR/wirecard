@@ -1,0 +1,20 @@
+{  
+   "ownId":"OR-ID001",
+   "amount":{  
+      "currency":"BRL",
+      "subtotals":{  
+         "shipping":1500
+      }
+   },
+   "items":[  
+      {  
+         "product":"Descrição do pedido",
+         "category":"CLOTHING",
+         "quantity":1,
+         "detail":"Camiseta estampada branca"
+      }
+   ],
+   "customer":{  
+      "id":"CUS-999MUJ09UCQC"
+   }
+}

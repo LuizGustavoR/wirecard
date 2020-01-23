@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+    <test name="Regression">
+        <classes>
+            <class name="OrderSteps" />
+            <class name="PaymentSteps" />
+        </classes>
+    </test>
+</suite>

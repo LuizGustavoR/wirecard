@@ -1,0 +1,32 @@
+{
+   "installmentCount": 1,
+   "statementDescriptor": "minhaLoja.com",
+   "fundingInstrument": {
+      "method": "CREDIT_CARD",
+      "creditCard": {
+         "hash": "sSfsdQLhQEyvlTVuc79yUo7FDHJ8ZPFPF4DkM4p1aptQpkvfmoqfW7WSbtlj0xaZmbR+d2IHzR1sdmxADfuHH9gERU3tzhvu9M+jm1NyX9c6W2mcDc0rsiS7q4HGzNDh05cGXqvt344wrAU4mJ3UfAv2Uiq7UN53EKUZ35ulJXAk9RQWnn+J8s39d7/h8Vh+sc2UMzFX6gfjfuLVAgP+m6suRgyKLRQY+LZY6vN62eKeYDJG79XUaSU+AD6di+UsOwYhaoDc2P41t59FY4dow32Bq0+t1TVQ2Bdn2iEVtN5Y+xCGGl4/GnZX/OqdElPU4tP+ndhI3voP5K387qH3ew==",
+         "store": true,
+         "holder": {
+            "birthdate": "1988-12-30",
+            "taxDocument": {
+               "type": "CPF",
+               "number": "33333333333"
+            },
+            "phone": {
+               "countryCode": "55",
+               "areaCode": "11",
+               "number": "66778899"
+            }
+         }
+      }
+   },
+   "device": {
+      "ip": "127.0.0.1",
+      "geolocation": {
+         "latitude": -33.867,
+         "longitude": 151.206
+      },
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36",
+      "fingerprint": "QAZXswedCVGrtgBNHyujMKIkolpQAZXswedCVGrtgBNHyujMKIkolpQAZXswedCVGrtgBNHyujMKIkolpQAZXswedCVGrtgBNHyujMKIkolp"
+   }
+}

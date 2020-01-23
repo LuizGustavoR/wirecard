@@ -1,0 +1,33 @@
+{  
+   "ownId":"OR-ID001",
+   "amount":{  
+      "currency":"BRL",
+      "subtotals":{  
+         "shipping":1500
+      }
+   },
+   "items":[  
+      {  
+         "product":"Descrição do pedido",
+         "category":"CLOTHING",
+         "quantity":1,
+         "detail":"Camiseta estampada branca",
+         "price":9500
+      }
+   ],
+   "customer":{  
+      "id":"CUS-999MUJ09UCQC"
+   },
+   "receivers": [
+      {
+         "type": "SECONDARY",
+         "feePayor": false,
+         "moipAccount": {
+            "id": "MPA-E3C8493A06AE"
+         },
+         "amount": {
+            "fixed": 5000
+         }
+      }
+   ]
+}
