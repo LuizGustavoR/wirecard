@@ -1,3 +1,4 @@
-*.idea
-*.target
-*.wirecard.iml
+.idea/
+allure-results/
+/target/*
+*.iml
